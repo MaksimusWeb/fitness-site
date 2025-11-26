@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fitness-site/static/css/main.72909acd.css",
-    "main.js": "/fitness-site/static/js/main.3e703029.js",
+    "main.js": "/fitness-site/static/js/main.fae65ec2.js",
     "static/media/anzhumanya.jpg": "/fitness-site/static/media/anzhumanya.20520191ff3ff726ec93.jpg",
     "static/media/backgr4.jpg": "/fitness-site/static/media/backgr4.0d30acb4e152c04f28ab.jpg",
     "static/media/backgr5.jpg": "/fitness-site/static/media/backgr5.102e90eb887de1021f47.jpg",
@@ -16,10 +16,10 @@
     "static/media/legs.jpg": "/fitness-site/static/media/legs.4390b3088007c37ebc07.jpg",
     "index.html": "/fitness-site/index.html",
     "main.72909acd.css.map": "/fitness-site/static/css/main.72909acd.css.map",
-    "main.3e703029.js.map": "/fitness-site/static/js/main.3e703029.js.map"
+    "main.fae65ec2.js.map": "/fitness-site/static/js/main.fae65ec2.js.map"
   },
   "entrypoints": [
     "static/css/main.72909acd.css",
-    "static/js/main.3e703029.js"
+    "static/js/main.fae65ec2.js"
   ]
 }
