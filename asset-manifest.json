@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.72909acd.css",
-    "main.js": "/static/js/main.941eacb8.js",
-    "static/media/anzhumanya.jpg": "/static/media/anzhumanya.20520191ff3ff726ec93.jpg",
-    "static/media/backgr4.jpg": "/static/media/backgr4.0d30acb4e152c04f28ab.jpg",
-    "static/media/backgr5.jpg": "/static/media/backgr5.102e90eb887de1021f47.jpg",
-    "static/media/back.jpg": "/static/media/back.b90b8301fde4cd46b87d.jpg",
-    "static/media/biceps.jpg": "/static/media/biceps.77a62769d476c0d1ac0d.jpg",
-    "static/media/shoulders.jpg": "/static/media/shoulders.bb112481b3156ae6f942.jpg",
-    "static/media/pecs.jpg": "/static/media/pecs.34c0f20c09238a4324c8.jpg",
-    "static/media/benchpress.jpg": "/static/media/benchpress.52fadd56a2527a2975a8.jpg",
-    "static/media/logo.png": "/static/media/logo.11e9be5643b8c5f6f084.png",
-    "static/media/personalcoach.jpg": "/static/media/personalcoach.482cb302f4d23185f847.jpg",
-    "static/media/triceps.jpg": "/static/media/triceps.383196ecc07a1b732d86.jpg",
-    "static/media/legs.jpg": "/static/media/legs.4390b3088007c37ebc07.jpg",
-    "index.html": "/index.html",
-    "main.72909acd.css.map": "/static/css/main.72909acd.css.map",
-    "main.941eacb8.js.map": "/static/js/main.941eacb8.js.map"
+    "main.css": "/fitness-site/static/css/main.72909acd.css",
+    "main.js": "/fitness-site/static/js/main.3e703029.js",
+    "static/media/anzhumanya.jpg": "/fitness-site/static/media/anzhumanya.20520191ff3ff726ec93.jpg",
+    "static/media/backgr4.jpg": "/fitness-site/static/media/backgr4.0d30acb4e152c04f28ab.jpg",
+    "static/media/backgr5.jpg": "/fitness-site/static/media/backgr5.102e90eb887de1021f47.jpg",
+    "static/media/back.jpg": "/fitness-site/static/media/back.b90b8301fde4cd46b87d.jpg",
+    "static/media/biceps.jpg": "/fitness-site/static/media/biceps.77a62769d476c0d1ac0d.jpg",
+    "static/media/shoulders.jpg": "/fitness-site/static/media/shoulders.bb112481b3156ae6f942.jpg",
+    "static/media/pecs.jpg": "/fitness-site/static/media/pecs.34c0f20c09238a4324c8.jpg",
+    "static/media/benchpress.jpg": "/fitness-site/static/media/benchpress.52fadd56a2527a2975a8.jpg",
+    "static/media/logo.png": "/fitness-site/static/media/logo.11e9be5643b8c5f6f084.png",
+    "static/media/personalcoach.jpg": "/fitness-site/static/media/personalcoach.482cb302f4d23185f847.jpg",
+    "static/media/triceps.jpg": "/fitness-site/static/media/triceps.383196ecc07a1b732d86.jpg",
+    "static/media/legs.jpg": "/fitness-site/static/media/legs.4390b3088007c37ebc07.jpg",
+    "index.html": "/fitness-site/index.html",
+    "main.72909acd.css.map": "/fitness-site/static/css/main.72909acd.css.map",
+    "main.3e703029.js.map": "/fitness-site/static/js/main.3e703029.js.map"
   },
   "entrypoints": [
     "static/css/main.72909acd.css",
-    "static/js/main.941eacb8.js"
+    "static/js/main.3e703029.js"
   ]
 }
