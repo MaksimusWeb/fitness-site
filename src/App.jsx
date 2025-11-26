@@ -12,20 +12,18 @@ import UserAgreement from './components/footer/UserAgreement.jsx';
 
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<MainLayout />}>
-          <Route index element={<Home />} />
-          <Route path="/training-programs" element={<TrainingPrograms />} />
-          <Route path="/training-programs/mass" element={<Mass />} />
-          <Route path="/training-programs/fatloss" element={<Fatloss />} />
-          <Route path="/training-programs/recomp" element={<Recomp />} />
-          <Route path="/exercise-pick" element={<ExercisePick />} />
-          <Route path="/bmi" element={<BmiPage />} />
-          <Route path='/user-agreement' element={<UserAgreement />} ></Route>
-        </Route>
-      </Routes>
-    </BrowserRouter>
+    <Routes>
+      <Route path="/" element={<MainLayout />}>
+        <Route index element={<Home />} />
+        <Route path="/training-programs" element={<TrainingPrograms />} />
+        <Route path="/training-programs/mass" element={<Mass />} />
+        <Route path="/training-programs/fatloss" element={<Fatloss />} />
+        <Route path="/training-programs/recomp" element={<Recomp />} />
+        <Route path="/exercise-pick" element={<ExercisePick />} />
+        <Route path="/bmi" element={<BmiPage />} />
+        <Route path="/user-agreement" element={<UserAgreement />}></Route>
+      </Route>
+    </Routes>
   );
 }
 
