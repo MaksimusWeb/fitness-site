@@ -1,8 +1,8 @@
 {
   "name": "fitness-site",
-  "homepage": "https://MaksimusWeb.github.io/fitness-site",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://MaksimusWeb.github.io/fitness-site",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -13,6 +13,7 @@
     "react-router-dom": "^7.9.4",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
+    
   },
   "scripts": {
     "start": "react-scripts start",
