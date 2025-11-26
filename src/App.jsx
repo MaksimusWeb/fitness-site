@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import MainLayout from './components/layouts/MainLayout.jsx';
 import Home from './components/home/Home.jsx';
 import BmiPage from './components/bmi/BmiPage.jsx';
