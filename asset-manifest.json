@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72909acd.css",
+    "main.js": "/static/js/main.c61e5f8a.js",
+    "static/media/anzhumanya.jpg": "/static/media/anzhumanya.20520191ff3ff726ec93.jpg",
+    "static/media/backgr4.jpg": "/static/media/backgr4.0d30acb4e152c04f28ab.jpg",
+    "static/media/backgr5.jpg": "/static/media/backgr5.102e90eb887de1021f47.jpg",
+    "static/media/back.jpg": "/static/media/back.b90b8301fde4cd46b87d.jpg",
+    "static/media/biceps.jpg": "/static/media/biceps.77a62769d476c0d1ac0d.jpg",
+    "static/media/shoulders.jpg": "/static/media/shoulders.bb112481b3156ae6f942.jpg",
+    "static/media/pecs.jpg": "/static/media/pecs.34c0f20c09238a4324c8.jpg",
+    "static/media/benchpress.jpg": "/static/media/benchpress.52fadd56a2527a2975a8.jpg",
+    "static/media/logo.png": "/static/media/logo.11e9be5643b8c5f6f084.png",
+    "static/media/personalcoach.jpg": "/static/media/personalcoach.482cb302f4d23185f847.jpg",
+    "static/media/triceps.jpg": "/static/media/triceps.383196ecc07a1b732d86.jpg",
+    "static/media/legs.jpg": "/static/media/legs.4390b3088007c37ebc07.jpg",
+    "index.html": "/index.html",
+    "main.72909acd.css.map": "/static/css/main.72909acd.css.map",
+    "main.c61e5f8a.js.map": "/static/js/main.c61e5f8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72909acd.css",
+    "static/js/main.c61e5f8a.js"
+  ]
+}
