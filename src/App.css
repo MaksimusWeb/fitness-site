@@ -7,6 +7,16 @@ body {
   padding: 0;
 }
 
+/* Скрываем скроллбар */
+::-webkit-scrollbar {
+  display: none;
+}
+
+html {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
 body {
   display: flex;
   flex-direction: column;
@@ -528,8 +538,8 @@ form {
 /* BMI ---------------------------------*/
 
 .user-agreement-form {
-  display: flex;            /* сохраним flex, но... */
-  flex-direction: column;   /* ...вертикально (заголовок сверху, кнопка снизу) */
-  align-items: center;      /* центрируем по горизонтали */
-  gap: 1rem;                /* расстояние между заголовком и кнопкой */
+  display: flex; /* сохраним flex, но... */
+  flex-direction: column; /* ...вертикально (заголовок сверху, кнопка снизу) */
+  align-items: center; /* центрируем по горизонтали */
+  gap: 1rem; /* расстояние между заголовком и кнопкой */
 }
